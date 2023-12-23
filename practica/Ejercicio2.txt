@@ -1,0 +1,8 @@
+//Leer lista de números
+//Inicializar variable mayor con el primer número de la lista
+
+//Para cada número en la lista:
+    //Si el número es mayor que el valor de la variable mayor:
+        //Actualizar el valor de la variable mayor con el número
+
+//Imprimir el valor de la variable mayor como el número mayor de la lista

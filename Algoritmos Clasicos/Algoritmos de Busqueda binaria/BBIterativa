@@ -1,0 +1,16 @@
+algoritmo busquedaBinariaIterativa(arreglo, elemento):
+    inicio = 0
+    fin = longitud(arreglo) - 1
+
+    mientras inicio <= fin:
+        medio = (inicio + fin) / 2
+
+        si arreglo[medio] es igual a elemento:
+            retornar medio
+
+        si arreglo[medio] < elemento:
+            inicio = medio + 1
+        sino:
+            fin = medio - 1
+
+    retornar -1

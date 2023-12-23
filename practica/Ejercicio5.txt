@@ -1,0 +1,14 @@
+// Algoritmo para calcular el factorial de un número
+
+
+// Entrada: n (número entero)
+// Salida: factorial (factorial de n)
+
+// Inicializar el factorial como 1
+
+// Leer el número n
+
+// Iterar desde 1 hasta n
+    // Multiplicar el factorial por el valor actual de i
+
+// Imprimir el resultado

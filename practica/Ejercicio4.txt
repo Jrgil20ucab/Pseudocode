@@ -1,0 +1,11 @@
+//Algoritmo para generar promedio dada una lista de números:
+
+//Inicializar la variable "suma" a 0.
+//Inicializar la variable "contador" a 0.
+//Leer la lista de números.
+    //Para cada número en la lista, hacer lo siguiente:
+        //Sumar el número a la variable "suma".
+        //Incrementar el contador en 1.
+//Calcular el promedio dividiendo la suma entre el contador.
+
+//Imprimir el promedio.

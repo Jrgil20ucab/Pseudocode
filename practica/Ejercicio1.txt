@@ -1,0 +1,11 @@
+
+//Dado dos numeros determinar el orden
+
+// Leer los dos números
+    // comparar los numeros
+        // Comprobar el orden
+            // almacenar en boleano
+
+//imprimir segun boleano
+
+

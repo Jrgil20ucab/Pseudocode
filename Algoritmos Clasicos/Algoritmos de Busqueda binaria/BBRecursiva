@@ -1,0 +1,17 @@
+algoritmo busquedaBinariaRecursiva(arreglo, valor, inicio, fin)
+    si inicio > fin
+        retornar -1 // El valor no se encuentra en el arreglo
+    fin si
+    
+    medio = (inicio + fin) / 2
+    
+    si arreglo[medio] == valor
+        retornar medio // El valor se encuentra en la posición medio
+    fin si
+    
+    si arreglo[medio] > valor
+        retornar busquedaBinariaRecursiva(arreglo, valor, inicio, medio - 1) // Buscar en la mitad izquierda del arreglo
+    sino
+        retornar busquedaBinariaRecursiva(arreglo, valor, medio + 1, fin) // Buscar en la mitad derecha del arreglo
+    fin si
+fin algoritmo

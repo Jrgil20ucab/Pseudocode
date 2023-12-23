@@ -1,0 +1,8 @@
+
+//leer la lista 
+    //Inicializar las variables "mayor" y "menor" con el primer elemento de la lista.
+    //Para cada elemento "num" en la lista, hacer:
+        //Si "num" es mayor que "mayor", actualizar el valor de "mayor" con "num".
+        //Si "num" es menor que "menor", actualizar el valor de "menor" con "num".
+
+//Imprimir el valor de "mayor" y "menor".

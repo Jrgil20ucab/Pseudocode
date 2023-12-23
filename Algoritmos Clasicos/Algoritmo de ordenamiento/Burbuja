@@ -1,0 +1,13 @@
+// Algoritmo de ordenamiento Burbuja
+// Entrada: Un arreglo de elementos
+// Salida: El arreglo ordenado de forma ascendente
+
+// Inicio del algoritmo
+// Repetir hasta que no haya intercambios
+    // Establecer el indicador de intercambio a falso
+    // Recorrer el arreglo desde el primer elemento hasta el penúltimo elemento
+        // Si el elemento actual es mayor que el siguiente elemento
+            // Intercambiar los elementos
+            // Establecer el indicador de intercambio a verdadero
+    // Si no hubo intercambios, salir del bucle
+// Fin del algoritmo
