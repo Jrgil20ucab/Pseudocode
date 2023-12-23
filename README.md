@@ -1,1 +1,3 @@
 # Pseudocode
+________________________________________
+Algoritmos y pseudocodigo
